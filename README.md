@@ -28,3 +28,6 @@ Purpose: Evaluate financial performance, support decision-making, and facilitate
   -  Designing user-centric reports with empathy in mind.
   - Optimization of report generation through meticulous fine-tuning.
   - Developing a systematic approach to devising a report building plan.
+
+    ![image](https://github.com/user-attachments/assets/6b753f02-c3a2-4b8b-9523-641e096db423)
+
